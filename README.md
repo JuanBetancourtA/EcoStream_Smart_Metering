@@ -2,7 +2,7 @@
 
 ## 📊 Vista General del Dashboard
 Aquí puedes ver el resultado visual de la solución desarrollada:
-![Dashboard de Control](Deteccion de anomalias y fugas ocultas.png)
+![Dashboard de Control](Detección de anomalías y fugas ocultas.png)
 
 ## 🏢 Contexto del Proyecto
 Este proyecto simula un escenario real en una empresa de gestión hidráulica (**EcoStream**). El objetivo principal consiste en analizar las lecturas por telemedida de los contadores inteligentes (smart meters) distribuidos en tres barrios principales de Madrid (Centro, Retiro y Salamanca) para identificar ineficiencias de consumo, pérdidas de agua no contabilizadas y posibles fugas en la red.
